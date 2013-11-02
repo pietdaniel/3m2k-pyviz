@@ -101,9 +101,6 @@ def main():
 			if (l>10000):
 				scr.fill((0,0,0))
 
-
-			
-
 		if (pygame.mixer.music.get_pos()<0):
 			loop=1
 

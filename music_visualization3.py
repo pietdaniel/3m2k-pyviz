@@ -7,7 +7,7 @@ from pygame.locals import *
 from random import randint,choice,randrange
 from math import pi, sin, asin, tan, cos
 import os
-# import cv2
+# import cv2b
 width=1920
 height=1080
 os.environ['SDL_VIDEO_WINDOW_POS'] = "%d,%d" % (0,0)

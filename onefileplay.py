@@ -985,7 +985,7 @@ def main5():
 		
 		
 		
-		if (sctr<len(samples))
+		# if (sctr<len(samples))
 		
 
 		(l,r) = samples[sctr]
